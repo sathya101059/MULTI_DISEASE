@@ -1,7 +1,0 @@
-# Kidney Disease
-age,bp,sg,al,su,rbc,pc,pcc,ba,bgr,bu,sc,sod,pot,hemo,pcv,wc,rc,htn,dm,cad,appet,pe,ane
-45,80,1.02,1,0,Normal,Normal,Not Present,Not Present,100,30,1.0,140,4,14,42,8000,5.0,No,No,No,Good,No,No
-50,90,1.01,2,1,Abnormal,Abnormal,Present,Not Present,120,40,1.2,138,4.5,13,40,9000,4.8,Yes,No,No,Poor,No,Yes
-60,120,1.03,3,2,Normal,Abnormal,Present,Present,150,60,2.0,135,5,12,38,11000,4.5,Yes,Yes,No,Poor,Yes,No
-30,70,1.01,0,0,Normal,Normal,Not Present,Not Present,90,20,0.8,142,4.2,15,44,7500,5.2,No,No,No,Good,No,No
-55,130,1.02,4,2,Abnormal,Abnormal,Present,Present,180,80,3.5,132,5.5,10,35,12000,4.0,Yes,Yes,Yes,Poor,Yes,Yes
