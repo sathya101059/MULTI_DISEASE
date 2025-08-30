@@ -1,0 +1,8 @@
+streamlit==1.45.1
+numpy==2.2.6
+pandas==2.3.0
+scikit-learn==1.6.1
+joblib==1.5.1
+imbalanced-learn==0.13.0  # optional, only if your models used SMOTE
+matplotlib==3.10.3        # optional, only if you do plotting
+seaborn==0.13.2           # optional, only if you do plotting

@@ -1,0 +1,36 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+
+# --- Environments ---
+.venv/
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# --- Streamlit ---
+.streamlit/secrets.toml
+.streamlit/**/secrets.toml
+
+# --- Logs & Caches ---
+*.log
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# --- IDE/OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Data (optional) ---
+data/raw/*
+!data/raw/README.md

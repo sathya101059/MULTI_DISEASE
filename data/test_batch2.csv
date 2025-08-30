@@ -1,0 +1,7 @@
+# Liver Disease
+Age,Gender,Total_Bilirubin,Direct_Bilirubin,Alkaline_Phosphotase,Alamine_Aminotransferase,Aspartate_Aminotransferase,Total_Protiens,Albumin,Albumin_and_Globulin_Ratio
+40,Male,1.0,0.5,250,30,40,7.0,4.0,1.1
+55,Female,5.0,3.0,600,120,150,5.5,2.8,0.8
+60,Male,3.0,1.5,400,80,100,6.0,3.2,1.0
+35,Female,0.8,0.3,200,25,30,7.5,4.5,1.2
+50,Male,4.5,2.5,550,110,130,5.8,3.0,0.9
